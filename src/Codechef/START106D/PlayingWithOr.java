@@ -1,7 +1,6 @@
 package Codechef.START106D;
 
-import java.util.LinkedList;
-import java.util.Queue;
+
 import java.util.Scanner;
 
 public class PlayingWithOr {
@@ -24,27 +23,20 @@ public class PlayingWithOr {
         int start = 0;
         int end = k - 1;
         int odd = 0;
-        int even = 0;
         for (int i = 0; i < k; i++) {
-            if (arr[i] % 2 == 0)
-                even++;
-            else
+            if (arr[i] % 2 != 0)
                 odd++;
         }
         if (odd != 0) {
             count++;
         }
         while (end < n  - 1 && end - start == k - 1) {
-            if (arr[start] % 2 == 0)
-                even--;
-            else
+            if (arr[start] % 2 != 0)
                 odd--;
             start++;
             end++;
             if (end < n) {
-                if (arr[end] % 2 == 0)
-                    even++;
-                else
+                if (arr[end] % 2 != 0)
                     odd++;
             }
             if (odd != 0) {
