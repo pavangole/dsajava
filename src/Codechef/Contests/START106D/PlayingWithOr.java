@@ -1,4 +1,4 @@
-package Codechef.START106D;
+package Codechef.Contests.START106D;
 
 
 import java.util.Scanner;
