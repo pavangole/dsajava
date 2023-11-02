@@ -13,3 +13,4 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 
 - **Problem:** [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
 - **Approach:** Parent needs child to calculate the average. So go deep to child which have no child return [child.value, 1] and come to parent add parents [parent.value,1 ] to array return by child and return the same array to the parent of this parent.
+- **Code File:** [CountNodeEaveSubtree.java](CountNodeEaveSubtree.java)
