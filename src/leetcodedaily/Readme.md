@@ -17,8 +17,7 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 
 ## Nov 3, 2023
 
-- **Problem:** [Build an Array With Stack Operations
-](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
-- **Approach:** Stack size = Array Size. If  integer is present in  target push
-If not present in target then push & pop.Increment arr pointer and stream of integers by 1 if push and only increase stream of integer by 1 if not present in target.
-- **Code File:** [BuildArrayWithStackOp.java](BuildArrayWithStackOp.java)
+- **Problem:** [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
+- **Approach:** Read the comment that collisions doesn't matter so I return the max among the two given arrays
+- **Code File:** [AntsFalling.java](AntsFalling.java)
+
