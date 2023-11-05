@@ -16,6 +16,11 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Code File:** [CountNodeEaveSubtree.java](CountNodeEaveSubtree.java)
 
 ## Nov 3, 2023
+- **Problem:** [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
+- **Approach:** Size of Stack will be equal to size of array. Number given from 1 to n if number present in array push and increment number and array index otherwise push pop because we have push number that is comming
+- **Code File:** [BuildArrayWithStackOp.java](BuildArrayWithStackOp.java)
+
+## Nov 4, 2023
 
 - **Problem:** [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/)
 - **Approach:** Read the comment that collisions doesn't matter so I return the max among the two given arrays
