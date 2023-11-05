@@ -30,5 +30,5 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 
 - **Problem:** [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/)
 - **Approach:** Not an optimal solution only beats 19% users.Used Hashmap to store the how many elements are smaller to right of the element in array.If we reach the end and don't get k then return the max element. As after some iterations max gonna come at zeroth position.
-- **Code File:** [AntsFalling.java](AntsFalling.java)
+- **Code File:** [FindWinnerArray.java](FindWinnerArray.java)
 
