@@ -26,3 +26,9 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Approach:** Read the comment that collisions doesn't matter so I return the max among the two given arrays
 - **Code File:** [AntsFalling.java](AntsFalling.java)
 
+## Nov 5, 2023
+
+- **Problem:** [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/)
+- **Approach:** Not an optimal solution only beats 19% users.Used Hashmap to store the how many elements are smaller to right of the element in array.If we reach the end and don't get k then return the max element. As after some iterations max gonna come at zeroth position.
+- **Code File:** [AntsFalling.java](AntsFalling.java)
+
