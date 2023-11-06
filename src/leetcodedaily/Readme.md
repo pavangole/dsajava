@@ -32,3 +32,8 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Approach:** Not an optimal solution only beats 19% users.Used Hashmap to store the how many elements are smaller to right of the element in array.If we reach the end and don't get k then return the max element. As after some iterations max gonna come at zeroth position.
 - **Code File:** [FindWinnerArray.java](FindWinnerArray.java)
 
+- **Problem:** [Seat Manager Reservation](https://leetcode.com/problems/seat-reservation-manager/)
+- **Approach:** Use simply priority queue to store unreserved seats.
+- **Code File:** [SeatReservation.java](SeatReservation.java)
+
+
