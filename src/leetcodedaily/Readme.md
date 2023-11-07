@@ -38,4 +38,8 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Approach:** Use simply priority queue to store unreserved seats.
 - **Code File:** [SeatReservation.java](SeatReservation.java)
 
+## Nov 7, 2023
 
+- **Problem:** [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/)
+- **Approach:** The science which we learnt in 6th standard and polish it 10th standard helped to solve the problem. Give distance and speed what is remaining time.Speed = Distance / Time. Find Time sort it and kill the monsters.
+- **Code File:** [EliminateMonster.java](EliminateMonster.java)
