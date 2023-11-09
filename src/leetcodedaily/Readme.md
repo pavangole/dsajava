@@ -44,7 +44,14 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Approach:** The science which we learnt in 6th standard and polish it 10th standard helped to solve the problem. Give distance and speed what is remaining time.Speed = Distance / Time. Find Time sort it and kill the monsters.
 - **Code File:** [EliminateMonster.java](EliminateMonster.java)
 
+## Nov 8, 2023
 - **Problem:** [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/)
 - **Approach:** Draw a whole rectangle around the points and calculate width and height and  if max of them is smaller and equal of target return true.
 - **Difficulty:** Not able to solve problem by own. Started overthinking about the problem. Problem was simple Need to Improve.
-- **Code File:** [EliminateMonster.java](EliminateMonster.java)
+- **Code File:** [CellReachable.java](CellReachable.java)
+
+
+## Nov 9, 2023
+- **Problem:** [Count Number of Homogenous Substrings] (https://leetcode.com/problems/count-number-of-homogenous-substrings/description/)
+- **Approach:** If current character is equal to previous character then increment the count else reset the count to 1. Add the count to the result. Use long to store the result and count because it can overflow.
+- **Code File:** [CountHomogenous.java](CountHomogenous.java)
