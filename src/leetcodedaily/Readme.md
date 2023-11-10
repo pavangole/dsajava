@@ -55,3 +55,9 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Problem:** [Count Number of Homogenous Substrings] (https://leetcode.com/problems/count-number-of-homogenous-substrings/description/)
 - **Approach:** If current character is equal to previous character then increment the count else reset the count to 1. Add the count to the result. Use long to store the result and count because it can overflow.
 - **Code File:** [CountHomogenous.java](CountHomogenous.java)
+
+## Nov 10, 2023
+- **Problem:** [https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/] (https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
+- **Approach:** Use HashMap to store the adjacent pairs. Find the first element which is not present in the value of HashMap. Add it to the result. Find the next element which is not present in the value of HashMap. Add it to the result. Repeat the process till we reach the end of the array.Use get an adjency list now do dfs from the root node.
+- **Difficulty:** Not solved problem by own. Need to improve.
+- **Code File:** No FIle
