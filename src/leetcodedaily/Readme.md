@@ -57,7 +57,24 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Code File:** [CountHomogenous.java](CountHomogenous.java)
 
 ## Nov 10, 2023
-- **Problem:** [https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/] (https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
+- **Problem:** [Restore the Array From Adjacent Pairs] (https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
 - **Approach:** Use HashMap to store the adjacent pairs. Find the first element which is not present in the value of HashMap. Add it to the result. Find the next element which is not present in the value of HashMap. Add it to the result. Repeat the process till we reach the end of the array.Use get an adjency list now do dfs from the root node.
 - **Difficulty:** Not solved problem by own. Need to improve.
 - **Code File:** No FIle
+
+## Nov 11, 2023
+- **Problem** [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator)
+- **Not solved**
+
+
+## Nov 12, 2023
+- **Problem** [Bus Routes](https://leetcode.com/problems/bus-routes)
+- **Not solved**
+
+
+## Nov 13, 2023
+- **Problem:** [Sort Vowels in a String] (https://leetcode.com/problems/sort-vowels-in-a-string)
+- **Approach:** Find the vowels add it to the list and then sort the list. Create a new String with the sorted vowels. Not an optimal approach. 
+- **Code File:** [SortVowels.java](SortVowels.java)
+
+
