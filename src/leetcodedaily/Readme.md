@@ -76,5 +76,9 @@ Let's embrace this challenge and make daily progress towards becoming a DSA expe
 - **Problem:** [Sort Vowels in a String] (https://leetcode.com/problems/sort-vowels-in-a-string)
 - **Approach:** Find the vowels add it to the list and then sort the list. Create a new String with the sorted vowels. Not an optimal approach. 
 - **Code File:** [SortVowels.java](SortVowels.java)
-
+## After One Month Break
+## Dec 23, 2023
+- **Problem:** [Path Crossing] (https://leetcode.com/problems/path-crossing/)
+- **Approach:** Find the vowels add it to the list and then sort the list. Create a new String with the sorted vowels. Not an optimal approach. 
+- **Code File:** [PathCrossing.java](PathCrossing.java)
 
